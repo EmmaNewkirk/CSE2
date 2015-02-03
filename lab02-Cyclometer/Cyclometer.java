@@ -1,5 +1,6 @@
 //Emma Newkirk  CSE2  30 Jan 2015
-//Cyclometer.java 
+//Cyclometer.java calcluates the distance traveled on a bike trip based on the
+//duration of the trip and the number of times the wheel rotated
 
 //class
 public class Cyclometer {
