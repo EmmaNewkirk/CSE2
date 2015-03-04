@@ -1,5 +1,5 @@
 //Emma Newkirk  CSE 2  3 March 2015
-//calculate the factorial of a user-provided integer
+//calculate the factorial of a user-provided integer using nested while loops
 
 //import the scanner class
 import java.util.Scanner;
@@ -46,7 +46,7 @@ public class RunFactorial {
                 
         } //end 1
         
-        System.out.println("Input accepted:");
+        System.out.println("Input accepted:"); 
         System.out.println(input + "! = " + factorial);
         
     } //end method
